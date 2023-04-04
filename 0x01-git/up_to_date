@@ -1,0 +1,5 @@
+git clone remote_url
+git branch -a
+git switch master
+git branch --set-upstream-to=origin/master
+git pull
